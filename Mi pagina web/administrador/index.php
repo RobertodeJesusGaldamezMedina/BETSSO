@@ -47,9 +47,11 @@ header('Location:inicio.php');
             <label >Contraseña:</label>
             <input type="password" class="form-control" name="contraseña" placeholder="Escribe tu contraseña">
             </div>
-            
+            <small id="emailHelp" class="form-text text-muted">Aun no tienes cuenta? ve a cear cuenta</small>
+            <br/>
             <button type="submit" class="btn btn-primary">Iniciar seccion</button>
             <button type="submit" class="btn btn-primary">Crear cuenta</button>
+
             </form>
             
             
