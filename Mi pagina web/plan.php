@@ -9,7 +9,7 @@
     <div class="card-body">
         <h4 class="card-title">Usuario sencillo</h4>
         <p class="card-text">Text</p>
-        <a name="" id="" class="btn btn-primary" href="#" role="button"></a>
+        <a name="" id="" class="btn btn-primary" href="administrador" role="button"></a>
     </div>
 </div>
 </div>

@@ -2,7 +2,7 @@
 
 
        <div class="jumbotron">
-        <center> <h1 class="display-3">Bienvenid@ a BETSSO</h1> </centrer>
+        <center> <h1 class="display-3">Bienvenid@ a BETSSO</h1> </center>
         <p class="lead">Jumbo helper text</p>
         <hr class="my-2">
         <p>More info</p>
